@@ -37,5 +37,9 @@ Follow these steps to set up the project locally:
 
       **Enter ip to run on the local network.**
 
+## SnapShots
+![image](https://github.com/user-attachments/assets/b2c30b6a-2530-46ed-8184-2f4167009aa7)
+
+
 
 
