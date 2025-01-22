@@ -13,14 +13,29 @@ This is my personal portfolio website built using **React.js** to showcase my sk
 
 - React.js
 - HTML5 & CSS3
-- JavaScript (ES6+)
-- Tailwind CSS
+- JavaScript 
 
 ## Installation
 
 Follow these steps to set up the project locally:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+1. Download Code > Zip
+2. Run **npm install** to install the dependencies
+3. Start the server: **node server.js**
+
+
+## Usage
+
+1. Start the server:
+      **node server.js**
+
+2. You will be prompted with the question:
+
+      **Would you like to run the server on localhost or IP address? (Enter "localhost" or "ip")**
+
+3. Enter localhost to run locally.
+
+      **Enter ip to run on the local network.**
+
+
 
