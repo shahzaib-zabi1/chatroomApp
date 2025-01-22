@@ -38,7 +38,14 @@ Follow these steps to set up the project locally:
       **Enter ip to run on the local network.**
 
 ## SnapShots
-![image](https://github.com/user-attachments/assets/b2c30b6a-2530-46ed-8184-2f4167009aa7)
+![image](https://github.com/user-attachments/assets/8fd0701c-f301-43e4-bb52-75308c561518)
+![image](https://github.com/user-attachments/assets/77b1f2a8-141e-4982-8d08-93369d7fc244)
+![image](https://github.com/user-attachments/assets/2685875b-9e42-486c-a453-f43459027bf6)
+![image](https://github.com/user-attachments/assets/343388bb-c75c-4dfa-b5fc-e9d4c0dff145)
+
+
+
+
 
 
 
