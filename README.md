@@ -1,19 +1,19 @@
-# Portfolio Website
+# Real-Time Chat Application
 
-This is my personal portfolio website built using **React.js** to showcase my skills, projects, and experiences.
+This is a real-time chat application built using Node.js, Express, and Socket.io for seamless communication between users.
 
 ## Features
 
-- **Home Page:** Introduction with a brief overview.
-- **About Section:** Details about my skills, education, and experience.
-- **Projects Section:** Showcase of my completed and ongoing projects.
-- **Contact Section:** Contact details and social media links.
+ - User can join the chat by entering a username.
+ - Real-time messaging with other users.
+ - Notifications when users join or leave the chat.
+ - Responsive user interface for both desktop and mobile.
 
 ## Technologies Used
 
-- React.js
-- HTML5 & CSS3
-- JavaScript 
+ - Frontend: HTML, CSS (Roboto Font), JavaScript
+ -  Backend: Node.js, Express.js
+ -  WebSockets: Socket.io
 
 ## Installation
 
